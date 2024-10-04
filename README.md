@@ -1,6 +1,6 @@
-# Setup Lingkungan - Visual Studio Code
-Buka folder "Dashboard"
-pip install -r requirements.txt
+# Setup environtment
+.\venv\Scripts\activate\
+untuk mengaktifkan virtual environtment
 
 # Run streamlit app
 streamlit run dashboard.py
