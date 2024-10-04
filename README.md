@@ -1,6 +1,6 @@
-#Setup Lingkungan - Visual Studio Code\
-Buka folder "Dashboard"\
+# Setup Lingkungan - Visual Studio Code
+Buka folder "Dashboard"
 pip install -r requirements.txt
 
-#Run streamlit app\
+# Run streamlit app
 streamlit run dashboard.py
